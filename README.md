@@ -1,1 +1,3 @@
-# initiation bootstrap 5
+# Initiation Bootstrap 5
+
+Ce repo contain les bases de bootstrap 5.
